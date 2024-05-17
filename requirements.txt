@@ -1,0 +1,13 @@
+argparse
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+requests
+beautifulsoup4
+tweepy
+Flask
+tabulate
